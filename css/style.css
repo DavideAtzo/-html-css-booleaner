@@ -13,10 +13,6 @@ header{
     
 }
 
-body{
-    margin: 0px;
-}
-
 #data{
     font-size: 12px;
 }
@@ -34,12 +30,14 @@ body{
 }
 
 
-section{
+section, footer{
     margin: 30px;
 }
 
 table{
     text-align: left;
+    margin-right: 0px;
+    border-collapse: collapse;
     
 }
 
@@ -60,4 +58,14 @@ table{
 th{
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+#trasparenza{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+}
+
+#idimg{
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
