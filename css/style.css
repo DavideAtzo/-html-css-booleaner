@@ -16,3 +16,11 @@ header{
 body{
     margin: 0px;
 }
+
+#data{
+    font-size: 12px;
+}
+
+.desc-foto{
+    font-size: 10px;
+}
