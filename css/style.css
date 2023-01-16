@@ -1,7 +1,7 @@
 #logobooleaners{
     width: 200px;
     padding-top: 40px;
-    padding-left: 10px;
+    padding-left: 30px;
    
 }
 
@@ -31,4 +31,33 @@ body{
 
 .yellow{
     background-color: yellow;
+}
+
+
+section{
+    margin: 30px;
+}
+
+table{
+    text-align: left;
+    
+}
+
+.colore{
+    background-color: #20a9e5;
+    
+}
+
+.colore2{
+    background-color: #b1e5f2;
+}
+
+.colonne2{
+    width: 300px;
+}
+
+
+th{
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
